@@ -1,4 +1,4 @@
-#include "../include/Piece.h"
+#include "Piece.h"
 
 Piece::Piece() {
     memset(p, '.', sizeof(p));

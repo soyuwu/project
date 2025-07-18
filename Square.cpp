@@ -1,4 +1,4 @@
-#include "../include/Square.h"
+#include "Square.h"
 
 Square::Square() {
     memset(p, '.', sizeof(p));

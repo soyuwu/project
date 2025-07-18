@@ -1,4 +1,4 @@
-#include "../include/I.h"
+#include "I.h"
 
 I::I() {
     memset(p, '.', sizeof(p));

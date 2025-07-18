@@ -1,4 +1,4 @@
-#include "../include/ZRight.h"
+#include "ZRight.h"
 
 ZRight::ZRight() {
     memset(p, '.', sizeof(p));

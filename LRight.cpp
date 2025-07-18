@@ -1,4 +1,4 @@
-#include "../include/LRight.h"
+#include "LRight.h"
 
 LRight::LRight() {
     memset(p, '.', sizeof(p));

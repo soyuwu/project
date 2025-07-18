@@ -1,4 +1,4 @@
-#include "../include/ZLeft.h"
+#include "ZLeft.h"
 
 ZLeft::ZLeft() {
     memset(p, '.', sizeof(p));

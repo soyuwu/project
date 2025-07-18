@@ -1,4 +1,4 @@
-#include "../include/T.h"
+#include "T.h"
 
 T::T() {
     memset(p, '.', sizeof(p));

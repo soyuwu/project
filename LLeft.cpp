@@ -1,4 +1,4 @@
-#include "../include/LLeft.h"
+#include "LLeft.h"
 
 LLeft::LLeft() {
     memset(p, '.', sizeof(p));
