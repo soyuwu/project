@@ -1,4 +1,4 @@
-#include "Tetris.h"
+#include "Tetris.cpp"
 #include <iostream>
 using namespace std;
 
