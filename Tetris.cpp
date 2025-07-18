@@ -1,15 +1,6 @@
 #include "Tetris.h"
 #include <cstdlib>
 #include <ctime>
-#include <iostream>
-#include "I.h"
-#include "LLeft.h"
-#include "LRight.h"
-#include "Square.h"
-#include "ZLeft.h"
-#include "ZRight.h"
-#include "T.h"
-using namespace std;
 
 Tetris::Tetris() {
     memset(board, '.', sizeof(board));
